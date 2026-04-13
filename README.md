@@ -2,7 +2,7 @@
 <h3 align="center">Reverse Engineer • Cybersecurity • Low-Level Dev</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hexaofficial&style=flat-square&color=0f172a" />
+  <img src="https://komarev.com/ghpvc/?username=0xhexaa&style=flat-square&color=0f172a" />
 </p>
 
 <p align="center">
@@ -50,12 +50,12 @@ Git            GitHub        Claude AI
 <h3>📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hexaofficial&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexaofficial&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=0xhexaa&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xhexaa&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hexaofficial&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=0xhexaa&theme=tokyonight&hide_border=true&cache_seconds=30"/>
 </p>
 
 <hr>
