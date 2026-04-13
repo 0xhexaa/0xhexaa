@@ -1,3 +1,4 @@
+
 <h1 align="center">⚡ Hexa ⚡</h1>
 <h3 align="center">Reverse Engineer • Cybersecurity • Low-Level Dev</h3>
 
@@ -84,9 +85,19 @@ Git            GitHub        Claude AI
 <h3>👁️ Presence</h3>
 
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/0xhexaa?theme=dark&bg=0f172a&animated=true&showDisplayName=true" />
+  <img src="https://lanyard.cnrad.dev/api/1447690175692935360?theme=dark&bg=000000&animated=true&showDisplayName=true&borderRadius=10px" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:00ffaa&height=120&section=footer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&color=00FF00&center=true&vCenter=true&width=500&lines=>+initializing...;>+connecting_to_discord...;>+user_detected:0xhexaa;>+status:online" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600"/>
+</p>
+
+<hr>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=120&section=footer"/>
 </p>
