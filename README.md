@@ -43,9 +43,9 @@ class Hexa:
 ├─────────────────────────┼─────────────────────────┼─────────────────────────┤
 │  Static & dynamic       │  Task automation        │  Discord bots           │
 │  analysis               │  Script pipelines       │  Scrapers & crawlers    │
-│  Binary unpacking        │  Process injection      │  Self-bot tooling       │
-│  .NET / native          │  Anti-cheat bypass       │  API wrappers           │
-│  Deobfuscation          │  Workflow tooling        │  Custom frameworks      │
+│  Binary unpacking       │   Process injection     │  Self-bot tooling       │
+│  .NET / native          │  Anti-cheat bypass      │  API wrappers           │
+│  Deobfuscation          │  Workflow tooling       │  Custom frameworks      │
 └─────────────────────────┴─────────────────────────┴─────────────────────────┘
 ```
 
@@ -92,8 +92,10 @@ class Hexa:
 - `[*]` Reverse engineering packed & obfuscated binaries
 - `[*]` Building automation tooling and bots
 - `[*]` Cybersecurity labs on TryHackMe
-- `[*]` Exploring AI for security research
-- `[*]` Low-level system internals & exploitation fundamentals
+- `[*]` Exploring AI for security research, and making my own
+- `[*]` Making crazy game cheats
+- `[*]` Exploiting other's computers remotely
+- `[*]` Gaining administrator and taking down networks (such as scam centers)
 
 ---
 
