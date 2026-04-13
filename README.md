@@ -1,4 +1,3 @@
-```html
 <h1 align="center">⚡ Hexa ⚡</h1>
 <h3 align="center">Reverse Engineer • Cybersecurity • Low-Level Dev</h3>
 
@@ -91,4 +90,3 @@ Git            GitHub        Claude AI
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:00ffaa&height=120&section=footer"/>
 </p>
-```
