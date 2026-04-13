@@ -1,19 +1,19 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║   ██╗  ██╗███████╗██╗  ██╗ █████╗                   ║
-║   ██║  ██║██╔════╝╚██╗██╔╝██╔══██╗                  ║
-║   ███████║█████╗   ╚███╔╝ ███████║                  ║
-║   ██╔══██║██╔══╝   ██╔██╗ ██╔══██║                  ║
-║   ██║  ██║███████╗██╔╝ ██╗██║  ██║                  ║
-║   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝                  ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+ ╔══════════════════════════════════════════════════════╗
+ ║                                                      ║
+ ║   ██╗  ██╗███████╗██╗  ██╗ █████╗                    ║
+ ║   ██║  ██║██╔════╝╚██╗██╔╝██╔══██╗                   ║
+ ║   ███████║█████╗   ╚███╔╝ ███████║                   ║
+ ║   ██╔══██║██╔══╝   ██╔██╗ ██╔══██║                   ║
+ ║   ██║  ██║███████╗██╔╝ ██╗██║  ██║                   ║
+ ║   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝                   ║
+ ║                                                      ║
+ ╚══════════════════════════════════════════════════════╝
 ```
 
-**`Reverse Engineer · Automation · Bot Dev · Cybersecurity`**
+**`Reverse Engineer · Automation · Bot Dev · Cybersecurity · Hacking`**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=0xhexaa&style=flat-square&color=00ff88&labelColor=0a0f0a&label=PROFILE+VIEWS)](https://github.com/0xhexaa)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-hexaofficial1-00ff88?style=flat-square&logo=tryhackme&logoColor=00ff88&labelColor=0a0f0a)](https://tryhackme.com/p/hexaofficial1)
@@ -96,6 +96,9 @@ class Hexa:
 - `[*]` Making crazy game cheats
 - `[*]` Exploiting other's computers remotely
 - `[*]` Gaining administrator and taking down networks (such as scam centers)
+
+## ❤️ Stuff I Like
+I love coding in Python. I like making tools for automation & "ethical hacking". I like using OSINT tools like [Shodan.io](https://www.shodan.io/) to find bad places like scam centers, and then using Kali Linux, on my Raspberry Pi 5, to find vulnerable devices, gaining access to them and then taking control of their network. I like coding in C++ for game cheats, I mainly make cheats for OGFN (old builds of Fortnite), GTA, and other games.
 
 ---
 
