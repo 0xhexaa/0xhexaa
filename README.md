@@ -16,7 +16,7 @@
 <pre>
 + Name: Hexa
 + Focus: Cybersecurity & AI
-+ Speciality: Reverse Engineering / Low-Level Systems
++ Speciality: Reverse Engineering / Low-Level Systems / Automation
 </pre>
 
 <ul>
