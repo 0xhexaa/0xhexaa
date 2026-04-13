@@ -1,103 +1,131 @@
+<div align="center">
 
-<h1 align="center">⚡ Hexa ⚡</h1>
-<h3 align="center">Reverse Engineer • Cybersecurity • Low-Level Dev</h3>
+```
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║   ██╗  ██╗███████╗██╗  ██╗ █████╗                   ║
+║   ██║  ██║██╔════╝╚██╗██╔╝██╔══██╗                  ║
+║   ███████║█████╗   ╚███╔╝ ███████║                  ║
+║   ██╔══██║██╔══╝   ██╔██╗ ██╔══██║                  ║
+║   ██║  ██║███████╗██╔╝ ██╗██║  ██║                  ║
+║   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝                  ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0xhexaa&style=flat-square&color=0f172a" />
-</p>
+**`Reverse Engineer · Automation · Bot Dev · Cybersecurity`**
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00FFAA&center=true&vCenter=true&width=500&lines=Python+%2B+C%2B%2B+Developer;Reverse+Engineering+Enthusiast;Cybersecurity+Learner;AI+Explorer" />
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=0xhexaa&style=flat-square&color=00ff88&labelColor=0a0f0a&label=PROFILE+VIEWS)](https://github.com/0xhexaa)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-hexaofficial1-00ff88?style=flat-square&logo=tryhackme&logoColor=00ff88&labelColor=0a0f0a)](https://tryhackme.com/p/hexaofficial1)
+[![Discord](https://img.shields.io/badge/Discord-0xhexaa-00ff88?style=flat-square&logo=discord&logoColor=00ff88&labelColor=0a0f0a)](https://discord.gg/6ybeU7ESFQ)
 
-<hr>
+</div>
 
-<h3>🧠 About Me</h3>
+---
 
-<pre>
-+ Name: Hexa
-+ Focus: Cybersecurity & AI
-+ Speciality: Reverse Engineering / Low-Level Systems / Automation
-</pre>
+```python
+class Hexa:
+    name        = "Hexa"
+    handle      = "0xhexaa"
+    focus       = ["Reverse Engineering", "Automation", "Bot Development", "Cybersecurity"]
+    languages   = ["Python", "C++", "Assembly", "JavaScript", "TypeScript", "C#"]
+    currently   = "Cracking binaries & building bots"
+    learning    = ["Exploitation", "Malware Analysis", "AI"]
+```
 
-<ul>
-  <li>🛠️ Main Languages: <b>Python, C++</b></li>
-  <li>⚙️ Also Use: JavaScript, TypeScript, C#, HTML, CSS, Assembly, Batch, NodeJS</li>
-  <li>🔐 Learning: Exploitation, reversing, security fundamentals</li>
-  <li>🤖 Exploring: Artificial Intelligence</li>
-</ul>
+---
 
-<hr>
+## ⚙️ Specialties
 
-<h3>💻 Tech Stack</h3>
+```
+┌─────────────────────────┬─────────────────────────┬─────────────────────────┐
+│   REVERSE ENGINEERING   │      AUTOMATION         │      BOT DEVELOPMENT    │
+├─────────────────────────┼─────────────────────────┼─────────────────────────┤
+│  Static & dynamic       │  Task automation        │  Discord bots           │
+│  analysis               │  Script pipelines       │  Scrapers & crawlers    │
+│  Binary unpacking        │  Process injection      │  Self-bot tooling       │
+│  .NET / native          │  Anti-cheat bypass       │  API wrappers           │
+│  Deobfuscation          │  Workflow tooling        │  Custom frameworks      │
+└─────────────────────────┴─────────────────────────┴─────────────────────────┘
+```
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,nodejs,cs&theme=dark" />
-</p>
+---
 
-<hr>
+## 🛠️ Tech Stack
 
-<h3>🧰 Tools & Arsenal</h3>
+**Primary**
 
-<pre>
-IDA Pro        x64dbg        dnSpy
-ILSpy          Detect It Easy
-Visual Studio  VS Code
-Git            GitHub        Claude AI
-</pre>
+![Python](https://img.shields.io/badge/Python-0a0f0a?style=flat-square&logo=python&logoColor=00ff88)
+![C++](https://img.shields.io/badge/C++-0a0f0a?style=flat-square&logo=cplusplus&logoColor=00ff88)
+![Assembly](https://img.shields.io/badge/Assembly-0a0f0a?style=flat-square&logo=assemblyscript&logoColor=00ff88)
 
-<hr>
+**Also Use**
 
-<h3>📊 GitHub Stats</h3>
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0f0a?style=flat-square&logo=javascript&logoColor=00ff88)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0f0a?style=flat-square&logo=typescript&logoColor=00ff88)
+![C#](https://img.shields.io/badge/C%23-0a0f0a?style=flat-square&logo=csharp&logoColor=00ff88)
+![NodeJS](https://img.shields.io/badge/NodeJS-0a0f0a?style=flat-square&logo=nodedotjs&logoColor=00ff88)
+![HTML](https://img.shields.io/badge/HTML-0a0f0a?style=flat-square&logo=html5&logoColor=00ff88)
+![CSS](https://img.shields.io/badge/CSS-0a0f0a?style=flat-square&logo=css3&logoColor=00ff88)
+![Batch](https://img.shields.io/badge/Batch-0a0f0a?style=flat-square&logo=windowsterminal&logoColor=00ff88)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xhexaa&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xhexaa&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=0xhexaa&theme=tokyonight&hide_border=true&cache_seconds=30"/>
-</p>
+## 🔬 Arsenal
 
-<hr>
+```
+[ REVERSING ]         [ DEBUGGING ]         [ ANALYSIS ]
+  IDA Pro               x64dbg                Detect It Easy
+  ILSpy                 dnSpy                 PE-bear
+  Ghidra                WinDbg                Wireshark
 
-<h3>🧪 Current Focus</h3>
+[ DEVELOPMENT ]       [ INFOSEC ]
+  Visual Studio         TryHackMe
+  VS Code               Burp Suite
+  Git / GitHub          Metasploit
+```
 
-<ul>
-  <li>🔐 Cybersecurity labs (TryHackMe)</li>
-  <li>🧠 Reverse Engineering binaries</li>
-  <li>⚙️ Low-level system analysis</li>
-  <li>🤖 AI experimentation</li>
-</ul>
+---
 
-<hr>
+## 📡 Current Focus
 
-<h3>🌐 Links</h3>
+- `[*]` Reverse engineering packed & obfuscated binaries
+- `[*]` Building automation tooling and bots
+- `[*]` Cybersecurity labs on TryHackMe
+- `[*]` Exploring AI for security research
+- `[*]` Low-level system internals & exploitation fundamentals
 
-<ul>
-  <li>🧠 TryHackMe: <a href="https://tryhackme.com/p/hexaofficial1">https://tryhackme.com/p/hexaofficial1</a></li>
-  <li>💬 Discord: <b>0xhexaa</b></li>
-  <li>🚀 Server: <a href="https://discord.gg/6ybeU7ESFQ">https://discord.gg/6ybeU7ESFQ</a></li>
-</ul>
+---
 
-<hr>
+## 📊 Stats
 
-<h3>👁️ Presence</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/api/1447690175692935360?theme=dark&bg=000000&animated=true&showDisplayName=true&borderRadius=10px" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=0xhexaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f0a&title_color=00ff88&icon_color=00ff88&text_color=8acc8a" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xhexaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f0a&title_color=00ff88&text_color=8acc8a" height="160"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&color=00FF00&center=true&vCenter=true&width=500&lines=>+initializing...;>+connecting_to_discord...;>+user_detected:0xhexaa;>+status:online" />
-</p>
+<img src="https://streak-stats.demolab.com?user=0xhexaa&theme=tokyonight&hide_border=true&background=0a0f0a&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=8acc8a&dates=4a7a4a" />
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600"/>
-</p>
+</div>
 
-<hr>
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=120&section=footer"/>
-</p>
+## 🌐 Links
+
+| Platform | Link |
+|---|---|
+| 🧠 TryHackMe | [tryhackme.com/p/hexaofficial1](https://tryhackme.com/p/hexaofficial1) |
+| 💬 Discord | `0xhexaa` |
+| 🚀 Discord Server | [discord.gg/6ybeU7ESFQ](https://discord.gg/6ybeU7ESFQ) |
+
+---
+
+<div align="center">
+
+```
+> status: online
+> location: /dev/null
+> mission: keep reversing
+```
+
+</div>
