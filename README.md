@@ -89,10 +89,6 @@ Git            GitHub        Claude AI
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&color=00FF00&center=true&vCenter=true&width=500&lines=>+initializing...;>+connecting_to_discord...;>+user_detected:0xhexaa;>+status:online" />
-</p>
-
-<p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600"/>
 </p>
 
