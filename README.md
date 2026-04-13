@@ -125,7 +125,7 @@ class Hexa:
 ```
 > status: online
 > location: /dev/null
-> mission: keep reversing
+> mission: keep coding
 ```
 
 </div>
