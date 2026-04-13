@@ -15,7 +15,7 @@
 
 **`Reverse Engineer · Automation · Bot Dev · Cybersecurity`**
 
-[![Profile Views](https://camo.githubusercontent.com/d7bb911ffba7a8c037b57b06ba736e567142ebfe5aa684f52a3d2f010eb3b47c/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d30786865786161267374796c653d666c61742d73717561726526636f6c6f723d306631373261)](https://github.com/0xhexaa)
+[![Profile Views](https://komarev.com/ghpvc/?username=0xhexaa&style=flat-square&color=00ff88&labelColor=0a0f0a&label=PROFILE+VIEWS)](https://github.com/0xhexaa)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-hexaofficial1-00ff88?style=flat-square&logo=tryhackme&logoColor=00ff88&labelColor=0a0f0a)](https://tryhackme.com/p/hexaofficial1)
 [![Discord](https://img.shields.io/badge/Discord-0xhexaa-00ff88?style=flat-square&logo=discord&logoColor=00ff88&labelColor=0a0f0a)](https://discord.gg/6ybeU7ESFQ)
 
