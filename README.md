@@ -95,7 +95,7 @@ class Hexa:
 - `[*]` Exploring AI for security research, and making my own
 - `[*]` Making crazy game cheats
 - `[*]` Exploiting other's computers remotely
-- `[*]` Gaining administrator and taking down networks (such as scam centers)
+- `[*]` Gaining administrator and taking down networks
 
 ## ❤️ Stuff I Like
 I love coding in Python. I like making tools for automation & "ethical hacking". I like using OSINT tools like [Shodan.io](https://www.shodan.io/) to find bad places like scam centers, and then using Kali Linux, on my Raspberry Pi 5, to find vulnerable devices, gaining access to them and then taking control of their network. I like coding in C++ for game cheats, I mainly make cheats for OGFN (old builds of Fortnite), GTA, and other games.
